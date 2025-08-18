@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Koorosh Sharafi
 
-<!--
-**KooroshS/KooroshS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ML Enthusiast | Python Programmer | Aspiring AI Researcher**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Languages & Tools
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Libraries & Frameworks
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+*...more to come as I grow my skills!*
+
+---
+
+## 📫 Connect with Me
+
+I’m always open to connecting with fellow developers, researchers, and tech enthusiasts!  
+[LinkedIn](https://www.linkedin.com/in/koorosh-sharafi) – Feel free to connect!  
+
+
+
