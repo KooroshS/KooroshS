@@ -1,10 +1,11 @@
 # Hi there 👋, I'm Koorosh Sharafi
-**ML Enthusiast | Python Programmer | Aspiring AI Researcher**
+**ML Enthusiast | Aspiring Neurologist**
 
 ---
 
 ## 🛠 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🛠 Libraries & Frameworks
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
