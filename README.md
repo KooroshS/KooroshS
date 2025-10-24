@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Koorosh Sharafi
-**ML Enthusiast | Aspiring Neurologist**
+**ML Enthusiast**
 
 ---
 
@@ -10,7 +10,8 @@
 ## 🛠 Libraries & Frameworks
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/pygame-0a0a0a?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
